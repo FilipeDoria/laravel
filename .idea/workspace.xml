@@ -11,11 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8c7e305-3563-4b56-a0f0-eafbd4c0aec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/startup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker/supervisord.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eb-laravel.zip" beforeDir="false" afterPath="$PROJECT_DIR$/eb-laravel.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitlab_ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudbuild.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +187,7 @@
       <workItem from="1599220518219" duration="184000" />
       <workItem from="1599220719429" duration="103000" />
       <workItem from="1599220837719" duration="1061000" />
-      <workItem from="1599224635266" duration="839000" />
+      <workItem from="1599224635266" duration="2033000" />
     </task>
     <servers />
   </component>
